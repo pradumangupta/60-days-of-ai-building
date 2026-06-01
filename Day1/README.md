@@ -1,18 +1,39 @@
-# Day 1 – Challenge Setup
+# 60 Days of AI Building 🚀
 
-## Objective
-Set up the official repository and workflow for the 60-Day Claude AI Challenge.
+Welcome to my public AI learning and building journey.
 
-## What I Completed
-- Created Day1 folder structure
-- Added prompts, outputs, and screenshots folders
-- Created documentation files
-- Prepared workflow for future AI builds
+This repository documents my progress through the 60-Day Claude AI Challenge.
 
-## Tools Used
-- GitHub
-- Claude / ChatGPT
-- Markdown
+## Challenge Goals
 
-## Outcome
-A clean and scalable repository setup for the 60-day journey.
+* Explore AI tools and workflows
+* Build practical projects
+* Learn in public
+* Maintain consistency
+* Create a visible record of growth
+
+## Repository Structure
+
+Day1/
+Day2/
+Day3/
+...
+Day60/
+
+Each folder contains:
+
+* Prompts
+* Outputs
+* Code
+* Notes
+* Screenshots
+
+## Progress Tracker
+
+| Day   | Status      |
+| ----- | ----------- |
+| Day 1 | ✅ Completed |
+| Day 2 | ⬜ Pending   |
+| Day 3 | ⬜ Pending   |
+
+Stay curious. Keep building.
