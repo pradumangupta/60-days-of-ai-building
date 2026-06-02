@@ -52,7 +52,7 @@ Each day may include:
 | Day   | Status      |
 | ----- | ----------- |
 | Day 1 | ✅ Completed |
-| Day 2 | ⬜ Pending   |
+| Day 2 | ✅ Completed   |
 | Day 3 | ⬜ Pending   |
 
 ---
