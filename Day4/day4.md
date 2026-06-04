@@ -84,7 +84,7 @@ Chain-of-Thought Prompting produces more structured and personalized outputs bec
 Created a practical 6-month roadmap to transition from a Python-skilled working professional to an AI Engineer through focused learning, project development, and consistent execution.
 
 ---
-cot.png
+![Roadmap](cot.png)
 ---
 
 ### Generated using Chain-of-Thought Reasoning
