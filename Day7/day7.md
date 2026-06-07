@@ -217,8 +217,8 @@ Learned how to choose the right Claude model and effort level based on task comp
 - Claude Model Comparison
 - Effort Settings
 - Personalized Usage Strategy
-- Workflow Diagram
-![claude_usage.png]
+
+  ![Workflow Diagram](claude_usage.png)
 
 ---
 
