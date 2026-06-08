@@ -226,15 +226,4 @@ Successfully designed my first AI-powered dashboard and explored how Claude can 
 
 ---
 
-## Screenshots
-
-See screenshots folder for:
-
-* Dashboard Design
-* Feature Breakdown
-* Dashboard Architecture
-* Final Dashboard Concept
-
----
-
 ### Generated during Day 8 of the 60-Day Claude AI Challenge
