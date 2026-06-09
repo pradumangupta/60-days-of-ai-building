@@ -195,16 +195,16 @@ See screenshots folder:
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](1.jpeg)
+![Dashboard Overview](1.png)
 
 ### Nutrition Analytics
-![Nutrition Analytics](2.jpeg)
+![Nutrition Analytics](2.png)
 
 ### Macronutrient Breakdown
-![Macronutrient Breakdown](3.jpeg)
+![Macronutrient Breakdown](3.png)
 
 ### Health Insights
-![Health Insights](4.jpeg)
+![Health Insights](4.png)
   
 
 ---
