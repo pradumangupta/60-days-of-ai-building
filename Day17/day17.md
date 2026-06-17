@@ -1,4 +1,4 @@
-# Day 16 – Fuel Cost & Sustainability Analytics Dashboard
+# Day 17 – Fuel Cost & Sustainability Analytics Dashboard
 
 ## Objective
 
@@ -278,4 +278,4 @@ Built and deployed a professional Fuel Cost & Sustainability Dashboard that prov
 
 ---
 
-### Generated during Day 16 of the 60-Day Claude AI Challenge
+### Generated during Day 17 of the 60-Day Claude AI Challenge
