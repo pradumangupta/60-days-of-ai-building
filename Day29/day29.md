@@ -1,69 +1,49 @@
 # 🚚 Day 29 – Operation Lifeline: Supply Chain Crisis Lab
 
-## 📌 Challenge Objective
+## 📌 Project Overview
 
-Build an AI-powered Supply Chain Crisis Lab that simulates real-world supply chain disruptions, analyzes their impact, and recommends mitigation strategies to improve business resilience.
+Operation Lifeline is an AI-powered Supply Chain Crisis Lab that helps organizations simulate supply chain disruptions, assess business impact, and explore mitigation strategies.
 
----
+The application enables users to analyze different crisis scenarios and receive AI-driven recommendations for improving supply chain resilience.
 
-## 🎯 Problem Statement
+## ✨ Features
 
-Modern supply chains face frequent disruptions due to:
+* 📦 Simulate real-world supply chain disruptions
+* 📊 Analyze operational and business impact
+* ⚠️ Assess supply chain risk levels
+* 🤖 AI-powered mitigation recommendations
+* 📈 Interactive and user-friendly dashboard
+* 🌐 Fully deployed web application
 
-- Natural disasters
-- Supplier shutdowns
-- Transportation strikes
-- Port congestion
-- Geopolitical conflicts
-- Demand surges
-- Raw material shortages
+## 🚀 Live Demo
 
-Organizations need proactive tools to assess risks, simulate disruptions, and develop resilient response strategies.
+https://operation-lifeline.vercel.app/
 
----
+## 🛠️ Tech Stack
 
-## 💡 Project Overview
+* Python
+* Streamlit
+* Generative AI
+* Prompt Engineering
+* Supply Chain Simulation
+* Vercel
 
-**Operation Lifeline: Supply Chain Crisis Lab** is an AI-driven simulation platform that enables users to:
+## 📚 Key Learnings
 
-1. Select a supply chain disruption scenario.
-2. Evaluate business impact.
-3. Analyze risks.
-4. Explore mitigation strategies.
-5. Generate AI-powered recommendations.
+* Understanding supply chain resilience
+* AI-assisted decision support
+* Crisis simulation techniques
+* Prompt engineering for business use cases
+* Designing user-centric AI applications
 
----
+## 🎯 Future Improvements
 
-## ⚙️ Features
+* Predictive disruption forecasting
+* Live logistics data integration
+* Supplier risk scoring
+* Inventory optimization
+* Multi-user collaboration
 
-### 1. Crisis Scenario Selection
+## 🌟 Conclusion
 
-Users can choose from multiple disruption scenarios:
-
-- Supplier Shutdown
-- Transportation Strike
-- Port Congestion
-- Natural Disaster
-- Demand Surge
-- Raw Material Shortage
-
----
-
-### 2. Business Inputs
-
-Users provide key operational information:
-
-- Industry Type
-- Inventory Level
-- Daily Demand
-- Supplier Dependency
-- Alternative Supplier Availability
-
-Example:
-
-```text
-Industry: Healthcare
-Inventory Level: 5000 units
-Daily Demand: 250 units
-Supplier Dependency: High
-Alternative Suppliers: No
+Operation Lifeline demonstrates how AI can support organizations in responding to supply chain disruptions by providing actionable insights, risk assessments, and strategic recommendations for business continuity.
